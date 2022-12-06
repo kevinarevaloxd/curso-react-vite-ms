@@ -1,4 +1,4 @@
-import Expenses from "./components/Expenses";
+import Expenses from "./components/Gastos/Expenses";
 function App() {
   const productos = [
     { fecha: new Date(2022, 11, 5), titulo: "PS5", precio: "899.999" },
